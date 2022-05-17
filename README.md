@@ -6,4 +6,4 @@ Using the interactive profile editing function of Lidar Studio point cloud proce
 
 For the legend, the power data are finely marked into four categories: power tower, ground wire, power line and others.
 
-![image](label.png)
+![image](label.PNG)
