@@ -6,4 +6,4 @@
 
 图例为电力数据精细标注成电力塔、地线、电力线、其他共4类
 
-![image](label.png)
+![image](label.PNG)
